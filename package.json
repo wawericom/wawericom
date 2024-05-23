@@ -1,0 +1,24 @@
+{
+  "name": "wawericom",
+  "version": "1.0.0",
+  "description": "wawericom website",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/wawericom/wawericom"
+  },
+  "keywords": [
+    "wawericom"
+  ],
+  "author": "simon kamau waweru",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^4.3.3"
+  }
+}
