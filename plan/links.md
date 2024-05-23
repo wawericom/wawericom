@@ -1,0 +1,6 @@
+- https://ke.linkedin.com/company/wawericom
+- https://x.com/wawericom
+- https://www.facebook.com/wawericom/
+- https://github.com/wawericom
+- https://www.youtube.com/@wawericom 
+- https://www.instagram.com/wawericom
