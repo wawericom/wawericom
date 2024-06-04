@@ -19,6 +19,7 @@
   "author": "simon kamau waweru",
   "license": "ISC",
   "dependencies": {
-    "@emailjs/browser": "^4.3.3"
+    "@emailjs/browser": "^4.3.3",
+    "bootstrap": "^5.3.3"
   }
 }
